@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+label { font-weight: bold; }
+input[type="text"], input[type="number"], input[type="email"] {
+    width: 280px; padding: 5px; margin-top: 4px;
+}
+button { padding: 6px 14px; }
+.error { background: #fdecea; border: 1px solid #f5c6cb;
+         color: #842029; padding: 8px 14px; margin-bottom: 14px; }
+.ok { background: #e8f5e9; border: 1px solid #b7dfb9;
+      padding: 8px 14px; margin-top: 14px; }
+td { padding: 3px 10px 3px 0; }
